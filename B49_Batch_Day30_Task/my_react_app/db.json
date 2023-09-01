@@ -1,0 +1,46 @@
+{
+  "fruits": [
+    {
+      "name": "apple",
+      "quantity": 10,
+      "price": 1200,
+      "imageUrl": "https://assets.thehansindia.com/h-upload/2020/08/17/992021-apples.jpg",
+      "id": 1
+    },
+    {
+      "name": "mango",
+      "quantity": 10,
+      "price": 1000,
+      "imageUrl": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_745346_16817899907977207.jpg",
+      "id": 2
+    },
+    {
+      "name": "banana",
+      "quantity": 10,
+      "price": 800,
+      "imageUrl": "https://i.ytimg.com/vi/jznMQ6YzzBs/maxresdefault.jpg",
+      "id": 3
+    },
+    {
+      "name": "jack fruit",
+      "quantity": 10,
+      "price": 700,
+      "imageUrl": "https://img.onmanorama.com/content/dam/mm/en/food/features/images/2023/3/5/ripe-jackfruit.jpg",
+      "id": 4
+    },
+    {
+      "name": "pappaya",
+      "quantity": 10,
+      "price": 600,
+      "imageUrl": "https://assetscdn1.paytm.com/images/catalog/product/H/HO/HOMTAIWAN-PAPAYCREA8874714C087F7/1563032077637_1..jpg?imwidth=540&impolicy=hq",
+      "id": 5
+    },
+    {
+      "name": "pomegranate",
+      "quantity": 10,
+      "price": 1000,
+      "imageUrl": "https://www.greendna.in/cdn/shop/products/Pomegranate-Seeds-1_1106x.jpg?v=1598021716",
+      "id": 6
+    }
+  ]
+}
